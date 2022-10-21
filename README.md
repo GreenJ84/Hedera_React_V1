@@ -1,1 +1,3 @@
-# Hedera_React_V1
+# Hedera React V1
+
+Connecting to Hedera via simple React App
